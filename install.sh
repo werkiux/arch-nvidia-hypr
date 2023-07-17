@@ -339,7 +339,7 @@ done
 
 # Shiny-Dark-Icons-themes
 mkdir -p ~/.icons
-cd accesorios/iconos
+cd accesorios/Iconos
 tar -xf Shiny-Dark-Icons.tar.gz -C ~/.icons
 tar -xf Shiny-Light-Icons.tar.gz -C ~/.icons
 
