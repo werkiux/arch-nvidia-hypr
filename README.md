@@ -1,0 +1,1 @@
+# arch-nvidia-hypr
