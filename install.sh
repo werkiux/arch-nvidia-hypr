@@ -27,7 +27,7 @@ clear
 TERM_WIDTH=$(tput cols)
 
 # Calcular el relleno para el mensaje.
-MESSAGE="Bienvenido al instalador hypr-nvidia."
+MESSAGE="Bienvenido..."
 PAD_LENGTH=$(( ($TERM_WIDTH - ${#MESSAGE}) / 2 ))
 
 # Establecer el color en verde.
